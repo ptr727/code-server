@@ -57,7 +57,7 @@ RUN apt-get update && apt-get upgrade -y \
         libgcc1 \
         libgcc-s1 \
         libgssapi-krb5-2 \
-        libicu70 \
+        libicu74 \
         liblttng-ust1 \
         libssl3 \
         libstdc++6 \
